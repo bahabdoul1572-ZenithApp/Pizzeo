@@ -1,0 +1,8 @@
+{
+  "name": "Pizzeo",
+  "description": "Professional pizza dough calculator with AI-powered baking assistance, image generation, and conversational voice interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
